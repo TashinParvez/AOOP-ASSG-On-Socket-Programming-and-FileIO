@@ -2,6 +2,9 @@
 
 This repository contains solutions to two assignments for the **Advanced Object-Oriented Programming (AOOP)** course, focusing on **Socket Programming** and **File I/O** in Java.
 
+![AOOP Assignment Screenshot](https://github.com/TashinParvez/AOOP-ASSG-On-Socket-Programming-and-FileIO/raw/main/SOCKET%20ASSG/Screenshot%20(2538).png)
+
+
 
 ## 🧩 Assignment Overview
 
